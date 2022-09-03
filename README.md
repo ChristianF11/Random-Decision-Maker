@@ -1,24 +1,8 @@
-# random_decision_maker
+## "Random Decision Maker"
 
-A new Flutter project created with https://flutlab.io
+Progetto creato con FlutLab (https://flutlab.io) e Android Studio
 
-## Getting Started
+### Cos'è 'Random Decision Maker'?
 
-This project is a starting point for a Flutter application.
+Questa applicazione ha lo scopo di generare risultati random tramite l'utilizzo di una moneta, dei dadi e un range di valori scelto dall'utente.
 
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Discover a marketplace of ready-to-use Flutter projects https://flutlab.io/widgetbay
-- Join the discussion and conversation on https://flutlab.io/residents
-
-If you have some questions regarding FlutLab, you can ask on https://flutlab.io/faq
