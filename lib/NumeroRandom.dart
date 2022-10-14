@@ -166,6 +166,9 @@ class _SceltaRandomState extends State<SceltaRandom> {
               ),
             ),
           ),
+          const Text("Un'app di Christian Fresu",
+            style: TextStyle(fontSize: 12),
+          ),
         ],
       ),
     );

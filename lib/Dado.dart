@@ -94,6 +94,9 @@ class _LancioDadoState extends State<LancioDado> {
               ),
             ),
           ),
+          const Text("Un'app di Christian Fresu",
+            style: TextStyle(fontSize: 12),
+          ),
         ],
       ),
     );

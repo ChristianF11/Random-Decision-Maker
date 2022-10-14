@@ -150,6 +150,9 @@ class _LancioDadiState extends State<LancioDadi> {
                 ),
               ),
             ),
+            const Text("Un'app di Christian Fresu",
+              style: TextStyle(fontSize: 12),
+            ),
           ],
         ));
   }

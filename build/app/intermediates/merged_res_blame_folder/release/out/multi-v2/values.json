@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Christian\\Desktop\\GitHub\\Flutter\\Random-Decision-Maker\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Christian\\Desktop\\GitHub\\Random-Decision-Maker\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Christian\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\values\\values.xml",
@@ -23,14 +23,14 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Christian\\Desktop\\GitHub\\Flutter\\Random-Decision-Maker\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Christian\\Desktop\\GitHub\\Random-Decision-Maker\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3,17",
                         "startColumns": "4,4",
-                        "startOffsets": "173,1010",
+                        "startOffsets": "173,1004",
                         "endLines": "10,19",
                         "endColumns": "12,12",
-                        "endOffsets": "663,1174"
+                        "endOffsets": "662,1168"
                     },
                     "to": {
                         "startLines": "93,101",

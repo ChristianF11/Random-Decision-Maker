@@ -85,6 +85,9 @@ class _LancioMonetaState extends State<LancioMoneta> {
               ),
             ),
           ),
+          const Text("Un'app di Christian Fresu",
+            style: TextStyle(fontSize: 12),
+          ),
         ],
       ),
     );
