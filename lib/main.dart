@@ -9,7 +9,7 @@ void main() => runApp(const MyApp());
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
-  //Classe fondamentale per il funzionamento dell'app
+  //Implementare animazione della moneta che gira (prima di restituire l'esito)
 
   @override
   Widget build(BuildContext context) {
