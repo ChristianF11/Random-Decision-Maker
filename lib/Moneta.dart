@@ -8,12 +8,32 @@ class LancioMoneta extends StatefulWidget {
   State<LancioMoneta> createState() => _LancioMonetaState();
 }
 
-class _LancioMonetaState extends State<LancioMoneta> {
-  //Variabile che salva l'esito del lancio
-  bool _risultato = true;
+class _LancioMonetaState extends State<LancioMoneta> with SingleTickerProviderStateMixin{
 
-  //Variabile che stampa l'esito (testa o croce)
+  //Controller con il compito di gestire l'animazione della moneta
+  late AnimationController _controller;
+  bool _risultato = true;
   String _faccia = '';
+
+  //Definizione del comportamento del controller
+  @override
+  void initState() {
+
+    super.initState();
+
+    _controller = AnimationController(
+      duration: Duration(seconds: 2),
+      vsync: this,
+    )..repeat();
+  }
+
+  @override
+  void dispose() {
+
+    _controller.dispose();
+    super.dispose();
+
+  }
 
   //Funzioni
   bool _lancio() {
