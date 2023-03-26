@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.helloworld">
+    package="com.example.randomdecisionmaker">
    <application
         android:label="Random Decision Maker"
         android:name="${applicationName}"
