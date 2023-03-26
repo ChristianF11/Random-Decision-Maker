@@ -4,12 +4,12 @@
         "source": "C:\\Users\\Christian\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Christian\\Desktop\\GitHub\\Random-Decision-Maker\\build\\app\\intermediates\\res\\merged\\release\\layout-v16_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\Christian\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\layout-v16\\notification_template_custom_big.xml"
-    },
-    {
         "merged": "C:\\Users\\Christian\\Desktop\\GitHub\\Random-Decision-Maker\\build\\app\\intermediates\\res\\merged\\release\\layout_custom_dialog.xml.flat",
         "source": "C:\\Users\\Christian\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Christian\\Desktop\\GitHub\\Random-Decision-Maker\\build\\app\\intermediates\\res\\merged\\release\\layout-v16_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Christian\\.gradle\\caches\\transforms-2\\files-2.1\\122df2e57d294d1a53db26bbc3b813c1\\core-1.6.0\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
         "merged": "C:\\Users\\Christian\\Desktop\\GitHub\\Random-Decision-Maker\\build\\app\\intermediates\\res\\merged\\release\\layout_notification_template_part_time.xml.flat",
